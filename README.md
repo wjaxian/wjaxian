@@ -1,6 +1,6 @@
 ## 联系方式
 
-- 博客: [www.wujiabk.xin](https://www.wujiabk.com)
+- 博客: [www.wujiabk.com](https://www.wujiabk.com)
 - QQ: 523453335
 - 微信：Juxw555
 - Email：web@wujiabk.com
