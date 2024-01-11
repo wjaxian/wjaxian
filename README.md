@@ -1,8 +1,9 @@
 ## 联系方式
 
-- 博客: [www.wujiabk.com](https://www.wujiabk.com)
-- QQ: 523453335
+- 博客：[www.wujiabk.com](https://www.wujiabk.com)
+- QQ：523453335
 - 微信：Juxw555
+- 微信公众号：前端技术专栏
 - Email：web@wujiabk.com
 - Twitter：[Jesy](https://twitter.com/jesy555)
 
