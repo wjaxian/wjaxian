@@ -8,8 +8,9 @@
 - Twitter：[Jesy](https://twitter.com/jesy555)
 
 ## 摸鱼动态
-
-<img src="https://github-readme-stats.vercel.app/api?username=wjaxian&show_icons=true&theme=vue" width="450" height="150" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjaxian&langs_count=10&layout=compact&theme=vue" width="450" height="150" />
+|Mark|Evaluate|
+|---|---|
+|<img src="https://github-readme-stats.vercel.app/api?username=wjaxian&show_icons=true&theme=vue" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjaxian&langs_count=10&layout=compact&theme=vue" />|
 
 ## 技术栈
 |End|Stack|
