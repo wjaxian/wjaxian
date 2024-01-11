@@ -8,7 +8,7 @@
 
 ## 摸鱼动态
 
-<img src="https://github-readme-stats.vercel.app/api?username=wjaxian&show_icons=true&theme=vue" width="500" height="200" style="margin-right: 20px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjaxian&langs_count=10&layout=compact&theme=vue" width="500" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=wjaxian&show_icons=true&theme=vue" width="500" height="200" style="margin-right: 10px;" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjaxian&langs_count=10&layout=compact&theme=vue" width="500" height="200" />
 
 ## 技术栈
 |End|Stack|
