@@ -1,18 +1,18 @@
-## 联系方式
+## 联系方式 Contact information
 
-- 博客：[www.wujiabk.com](https://www.wujiabk.com)
+- 博客 Blog：[www.wujiabk.com](https://www.wujiabk.com)
 - QQ：523453335
-- 微信：Juxw555
-- 微信公众号：前端技术专栏
+- 微信 Wechat：Juxw555
+- 微信公众号 Wechat public account：前端技术专栏 Front-end technology column
 - Email：web@wujiabk.com
 - Twitter：[Jesy](https://twitter.com/jesy555)
 
-## 摸鱼动态
+## 摸鱼动态 Fish behavior
 |Mark|Evaluate|
 |---|---|
 |<img src="https://github-readme-stats.vercel.app/api?username=wjaxian&show_icons=true&theme=vue" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wjaxian&langs_count=10&layout=compact&theme=vue" />|
 
-## 技术栈
+## 技术栈 Technology stack
 |End|Stack|
 |---|---|
 |Language|<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white" /> <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />|
