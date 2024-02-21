@@ -5,7 +5,7 @@
 - 微信 Wechat：Juxw555
 - 微信公众号 Wechat public account：前端技术专栏 Front-end technology column
 - Email：web@wujiabk.com
-- Twitter：[Jesy](https://twitter.com/jesy555)
+- Twitter：[Jaxian](https://twitter.com/jaxian113)
 
 ## 摸鱼动态 Fish behavior
 |Mark|Evaluate|
