@@ -2,7 +2,7 @@
 
 - 博客 Blog：[www.wujiabk.com](https://www.wujiabk.com)
 - QQ：523453335
-- 微信 Wechat：Juxw555
+- 微信 Wechat：wjax113
 - 微信公众号 Wechat public account：前端技术专栏 Front-end technology column
 - Email：web@wujiabk.com
 - Twitter：[Jaxian](https://twitter.com/jaxian113)
